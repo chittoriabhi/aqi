@@ -10,6 +10,6 @@
 - Create a new app on **Heroku** and connect the **AIR-QUALITY-INDEX-PREDICTOR-DEPLOYMENT** repository to created app and deploy your project on heroku.
 
 
-## DEPLOYED PROJECT -  https://airquality-index-predictor.herokuapp.com/ 
+## DEPLOYED PROJECT -  https://airqualitiindex.herokuapp.com/
 
 
